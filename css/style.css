@@ -1,0 +1,24 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-bg{
+    background-color: #FCEAE8;
+}
+
+.category-card-watch{
+    background-color: #FFA500 !important;
+}
+
+.category-card-bag{
+    background-color: #DA70D6 !important;
+}
+
+.category-card-shoe{
+    background-color: #0000FF !important;
+}
+
+#subscribe{
+    background-color: #FCEAE8;
+    height: 300px;
+}
